@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 3.815 s <<< FAILURE! - in TestSuite
+beforeMethod(tests.selenium.TC003_CreateIncidentUsingRestAndVerifyUsingSelenium)  Time elapsed: 3.158 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\BaskaranVivek\Documents\Rest API and GRaph QL\codes\Makaia-master\Makaia-master\.\drivers\chromedriver.exe
+
